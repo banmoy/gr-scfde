@@ -1,1 +1,6 @@
-This is for the SC-FDE System.
+This is a library for SC-FDE(Single Carrier with Frequency Domain Equaliztaion) System on GNU Radio.
+
+It includes Timing Synchronization, Frequency Synchronization, Channel Estimation and Frequency Domain Equalization.
+
+You can run benchmark* in examples with USRP.
+
